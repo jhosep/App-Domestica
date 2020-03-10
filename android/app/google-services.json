@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612762498877",
+    "firebase_url": "https://domestika-87.firebaseio.com",
+    "project_id": "domestika-87",
+    "storage_bucket": "domestika-87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612762498877:android:7e3c5fd4ae0055285a7754",
+        "android_client_info": {
+          "package_name": "com.domestica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612762498877-bmfoaqp6o8veiojuk9uksvviu8evhaj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWnLRX4yZ44W02_fXb7javwqnidGnnOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612762498877-bmfoaqp6o8veiojuk9uksvviu8evhaj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
